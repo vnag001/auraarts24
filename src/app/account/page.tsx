@@ -33,7 +33,7 @@ export default function AccountPage() {
           <EmptyState
             icon={DatabaseZap}
             title="Supabase isn't connected yet"
-            description="Accounts, sign-in, and order history need a Supabase project. Add your keys to .env.local — see the README's \u201cSet up Supabase\u201d section — then this page will work."
+            description="Accounts, sign-in, and order history need a Supabase project. Add your keys to .env.local — see the README’s “Set up Supabase” section — then this page will work."
             action={<Link href="/shop" className="btn-primary">Continue Browsing</Link>}
           />
         </div>
