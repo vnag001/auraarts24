@@ -229,7 +229,7 @@ function AuthForm() {
       </form>
 
       <p className="mt-6 text-center text-xs text-muted">
-        Requires a connected Supabase project — see the README's "Set up Supabase" section.
+        Requires a connected Supabase project — see the README&apos;s &quot;Set up Supabase&quot; section.
       </p>
     </div>
   );
